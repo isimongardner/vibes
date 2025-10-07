@@ -1,2 +1,2 @@
 # vibes
-A repository for storing ideas for programs realised by generative AI
+A repository of programs realised by generative AI
